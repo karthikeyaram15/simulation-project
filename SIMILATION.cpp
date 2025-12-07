@@ -1,7 +1,5 @@
-/* banking_short.c
-   Short Banking Simulation in C
-   Features: create account, deposit, withdraw, transfer, simple log file
-*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -118,5 +116,6 @@ int main(){
     printf("Goodbye.\n");
     return 0;
 }
+
 
 
